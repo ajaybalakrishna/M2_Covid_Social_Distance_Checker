@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "adc_pwmoutput.h": "c",
+        "io.h": "c"
+    }
+}
