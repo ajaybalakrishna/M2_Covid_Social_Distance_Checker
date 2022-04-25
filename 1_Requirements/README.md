@@ -49,7 +49,7 @@ Covid Social distance checker mainly uses ultrasonic sensor to calculate the dis
 
                  = (TIMER value) / 466.47 cm
 
-# Applications of LDR :
+# Applications  :
 * This device can be employed in pandemic situations such as covid-19 where social distancing is necessary. 
 * This can also be used in government offices or public places where the people waiting in queue to maintain social distancing.
 * this can also be used in schools and colleges to have adequate distance between the students.
